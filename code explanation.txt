@@ -1,0 +1,27 @@
+1.The code defines a student class with properties like student id,name, Age,  gender,and Grade. These properties will be used to store the information of each student.
+
+2.The Program class contains the Main method, which is the entry point of the program,
+
+1.It declares a variable filepath to store the name of the file from which student data will be read, to this case we enter the file path from user
+
+4. The try, block is used to handle exceptions like given file path exsist or not. If File path not exist then it throws exception.
+
+5. Else block is used to read all lines from the file specified in filePath using File.ReadAIIcines and stores them in the lines array, Intialization of student data declare  first time.
+
+6.The program iterates over each line in the lines array using a foreach loop. In this Loop ser declare Hows that specified Lable(name, id, Grade, gender,age) and values.
+
+7. Inside the loop, it checks each line to determine whether it contains information about the student's Id,name, age,gender, and grade. If the condition is true the loop will iterate ut if block executed. 
+
+8.1f a line starts with "Id:", it indicates the start of a new student record. A new student object is created, and the id of the student is extracted from the line aid assigns current student variable.
+
+9.11 a line starts with "Name: the name of the student is extracted from the line and assigned to the currentStudent variabile.
+
+10.1f a line starts with "Age: ", the program attempts to parse the age information from the line and stores it in the currentstundent's Age property. 
+
+ 11.1f a line starts with "Grade: ", the program attempts to parse the grade information from the line and stores it in the currentstudent's trade property.
+
+11.1f a line starts with "Gender: ", the program attempts to parse the grade information from the line and stores it in the currentstudent's trade property
+
+12.After reading all the information (1d,name, age, Gender and grade) for a single student, the completed currentstudent is added to the students list.
+
+13.After processing all the lines, the program has collected a list of student objects representing all the students read from the file, and it prints the ld, name, age, Gender and grade of console

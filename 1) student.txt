@@ -1,0 +1,20 @@
+1) Student  Id:01
+    Name:Ram
+    Age:20
+    Gender:male
+    Grade:A
+2)Student  Id:02
+    Name:Sita
+    Age:21
+    Gender:female
+    Grade:A+
+3)Student  Id:03
+    Name:Sam
+    Age:22
+    Gender:male
+    Grade:A
+4)Student  Id:04
+    Name:Reeta
+    Age:21
+    Gender:female
+    Grade:B

@@ -1,0 +1,8 @@
+E:\Project1.9\project1.9\bin\Debug\project1.9.exe.config
+E:\Project1.9\project1.9\bin\Debug\project1.9.exe
+E:\Project1.9\project1.9\bin\Debug\project1.9.pdb
+E:\Project1.9\project1.9\obj\Debug\project1.9.csproj.AssemblyReference.cache
+E:\Project1.9\project1.9\obj\Debug\project1.9.csproj.SuggestedBindingRedirects.cache
+E:\Project1.9\project1.9\obj\Debug\project1.9.csproj.CoreCompileInputs.cache
+E:\Project1.9\project1.9\obj\Debug\project1.9.exe
+E:\Project1.9\project1.9\obj\Debug\project1.9.pdb
